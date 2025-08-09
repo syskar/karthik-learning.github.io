@@ -26,8 +26,4 @@ Think of Azure VMs as **rented computers in the cloud**—you choose the size, O
 
 ## ⚙️ VM Creation Steps
 
-### 1. Choose a VM Image
 
-{% highlight bash %}
-az vm create --name demo-vm
-{% endhighlight %}

@@ -2,6 +2,7 @@
 layout: home
 title: Karthik's Learning Hub
 description: Daily review, tutorials, and visual guides for cloud and automation
+paginate: true
 ---
 
 # 👋 Welcome to Karthik's Learning Hub

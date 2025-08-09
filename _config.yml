@@ -5,6 +5,7 @@ url: "https://karthik-learning.github.io"
 
 theme: minima
 future: true
+paginate: false
 
 plugins:
   - jekyll-feed
@@ -18,7 +19,7 @@ exclude:
   - docs
 
 show_excerpts: false
-paginate: false
+
 
 
 
