@@ -15,13 +15,13 @@ This site is your personal space for mastering cloud infrastructure, automation,
 Explore topics below:
 
 ## 🔷 Azure  
-- [Explore Azure Topics](azure/index.md)
+- [Explore Azure Topics](azure/index.html)
 
 ## 🌱 Terraform  
-- [Explore Terraform Topics](terraform/index.md)
+- [Explore Terraform Topics](terraform/index.html)
 
 ## 🐳 Docker & Kubernetes  
-- [Kubernetes](kubernetes/index.md)
+- [Kubernetes](kubernetes/index.html)
 
 ## 🎨 Flashcards  
 - [CLI Commands](flashcards/cli.md)
