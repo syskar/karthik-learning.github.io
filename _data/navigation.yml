@@ -2,9 +2,6 @@ main:
   azure:
   - title: Azure Networking
     url: /azure/index.html
-  terraform:
-  - title: "Terraform"
-    url: /terraform/modules/
   kubernetes:
   - title: "Kubernetes"
     url: /kubernetes/index.html

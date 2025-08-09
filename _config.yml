@@ -20,9 +20,6 @@ exclude:
 
 show_excerpts: false
 
-
-
-
 collections:
   azure:
     output: true
