@@ -7,4 +7,3 @@ title: Terraform Topics
 
 Infrastructure as Code essentials:
 
-- [Modules](modules.html)
