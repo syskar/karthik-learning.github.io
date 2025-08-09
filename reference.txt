@@ -1,0 +1,48 @@
+jekyll build --clean
+
+bundle exec jekyll serve
+
+http://127.0.0.1:4000/
+
+add the corresponding the .md files to the corresponding topic folders 
+
+create a corresponding .html links in the corresponding topic folder 
+    index.md against the respective .md files 
+
+example 
+    under azure folder 
+        create the networking.md
+        go to the azure/index.md folder and create a link for the networking.md as like below
+            - [Networking](networking.html)
+    
+ensure the main index.md is updated to the corresponding topics html files
+
+first time initiating the git to sync with the existign recent_posts
+    git init --> if it is first time
+    git remote add origin https://github.com/syskar/karthik-learning.github.io.git
+    git remote -v --> to verify
+
+
+
+git status
+git add .
+git commit -m "Add Kubernetes section with kube-scheduler and index"
+## // only first time --> git push -u origin main
+
+git pull origin main --allow-unrelated-histories // to sync wit hthe existing repo
+git push origin main
+
+
+Access
+https://syskar.github.io/karthik-learning.github.io/
+
+✅ 5. Push to GitHub
+If your repo is empty:
+
+bash
+git push -u origin main
+If your repo already has commits and you want to merge:
+
+bash
+git pull origin main --allow-unrelated-histories
+git push origin main

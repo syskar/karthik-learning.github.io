@@ -1,0 +1,40 @@
+title: "Karthik's Learning Log"
+description: "Azure, Terraform, and tech tutorials"
+baseurl: "" # leave empty for user site
+url: "https://karthik-learning.github.io"
+
+theme: minima
+future: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+collections:
+  azure:
+    output: true
+  terraform:
+    output: true
+  kubernetes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "azure"
+    values:
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "terraform"
+    values:
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "kubernetes"
+    values:
+      layout: "single"
+      author_profile: true
