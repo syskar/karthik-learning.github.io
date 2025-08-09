@@ -15,19 +15,19 @@ This site is your personal space for mastering cloud infrastructure, automation,
 Explore topics below:
 
 ## 🔷 Azure  
-- [Explore Azure Topics](azure/index.html)
+- [Explore Azure Topics](azure/index.md)
 
 ## 🌱 Terraform  
-- [Explore Terraform Topics](terraform/index.html)
+- [Explore Terraform Topics](terraform/index.md)
 
 ## 🐳 Docker & Kubernetes  
-- [Kubernetes](kubernetes/index.html)
+- [Kubernetes](kubernetes/index.md)
 
 ## 🎨 Flashcards  
-- [CLI Commands](flashcards/cli.html)
+- [CLI Commands](flashcards/cli.md)
 
 ## 📚 Tutorials  
-- [VPN Setup](tutorials/vpn.html)
+- [VPN Setup](tutorials/vpn.md)
 
 ## 🎯 Goals
 

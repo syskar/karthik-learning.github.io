@@ -33,16 +33,3 @@ git pull origin main --allow-unrelated-histories // to sync wit hthe existing re
 git push origin main
 
 
-Access
-https://syskar.github.io/karthik-learning.github.io/
-
-✅ 5. Push to GitHub
-If your repo is empty:
-
-bash
-git push -u origin main
-If your repo already has commits and you want to merge:
-
-bash
-git pull origin main --allow-unrelated-histories
-git push origin main
